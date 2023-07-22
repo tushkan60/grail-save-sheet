@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "tainted-grail-90eda"
+  },
+  "targets": {
+    "tainted-grail-90eda": {
+      "hosting": {
+        "grail-save-sheet": [
+          "tainted-grail-90eda"
+        ]
+      }
+    }
+  }
+}

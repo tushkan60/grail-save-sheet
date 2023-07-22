@@ -1,0 +1,104 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-12">
+      <h2 i18n class="text-center">Save Sheet</h2>
+      <form [formGroup]="saveSheetForm">
+        <div class="row">
+          <div class="col-sm-12 text-center">
+            <mat-form-field>
+              <mat-label i18n>Input game name</mat-label>
+              <input matInput formControlName="gameName" id="gameName" />
+            </mat-form-field>
+          </div>
+        </div>
+
+        <div class="row" formGroupName="menhirs">
+          <div
+            class="col-sm-12 col-md-4 bg-opacity-50"
+            *ngFor="let menhir of ['first', 'second', 'third']; let i = index"
+          >
+            <h3 i18n style="color: var(--bs-white)">Menhir #{{ i + 1 }}</h3>
+            <div class="card" formGroupName="{{ menhir }}Menhir">
+              <mat-form-field>
+                <mat-label i18n>Location</mat-label>
+                <input matInput formControlName="location" type="number" />
+              </mat-form-field>
+
+              <mat-form-field>
+                <mat-label i18n>Dial Value</mat-label>
+                <mat-select formControlName="dialValue">
+                  <mat-option i18n value="">Select</mat-option>
+                  <mat-option
+                    value="{{ i }}"
+                    *ngFor="let i of [1, 2, 3, 4, 5, 6, 7, 8, 9]"
+                    >{{ i }}</mat-option
+                  >
+                </mat-select>
+              </mat-form-field>
+            </div>
+          </div>
+        </div>
+
+        <div class="row justify-content-center" formGroupName="missions">
+          <div
+            class="col-sm-12 col-md-4 bg-opacity-50"
+            *ngFor="let mission of ['first', 'second']; let i = index"
+          >
+            <h3 i18n style="color: var(--bs-white)">Quest Dial #{{ i + 1 }}</h3>
+            <div class="card" formGroupName="{{ mission }}Mission">
+              <mat-form-field>
+                <mat-label i18n>Location</mat-label>
+                <input matInput formControlName="location" type="number" />
+              </mat-form-field>
+
+              <mat-form-field>
+                <mat-label i18n>Dial Value</mat-label>
+                <mat-select formControlName="dialValue">
+                  <mat-option i18n value="">Select</mat-option>
+                  <mat-option
+                    value="{{ i }}"
+                    *ngFor="let i of [1, 2, 3, 4, 5, 6, 7, 8, 9]"
+                    >{{ i }}</mat-option
+                  >
+                </mat-select>
+              </mat-form-field>
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-sm-12 col-md-4 bg-opacity-50">
+            <h3 i18n style="color: var(--bs-white)">Guardians</h3>
+            <div class="card" formGroupName="guardians">
+              <mat-form-field
+                *ngFor="let guardian of ['first', 'second']; let i = index"
+              >
+                <mat-label i18n>Guardian #{{ i + 1 }} Location</mat-label>
+                <input
+                  matInput
+                  formControlName="{{ guardian }}Guardian"
+                  type="number"
+                />
+              </mat-form-field>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-sm-12">
+            <h3 i18n style="color: var(--bs-white)">Player notes:</h3>
+            <div class="card">
+              <mat-form-field>
+                <textarea matInput formControlName="notes"></textarea>
+              </mat-form-field>
+            </div>
+          </div>
+        </div>
+        <app-save-buttons
+          [gameId]="gameId"
+          (saveClicked)="onSave()"
+          (updateClicked)="onUpdate()"
+        ></app-save-buttons>
+      </form>
+    </div>
+  </div>
+</div>

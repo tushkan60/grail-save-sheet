@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+
+      <trans-unit id="ngb.alert.close" datatype="html">
+        <source>Close</source>
+        <target>Закрыть</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.HH" datatype="html">
+        <source>HH</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.toast.close-aria" datatype="html">
+        <source>Close</source>
+        <target>Закрыть</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.first" datatype="html">
+        <source>««</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.select-month" datatype="html">
+        <source>Select month</source>
+        <target>Выбрать месяц</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.previous-month" datatype="html">
+        <source>Previous month</source>
+        <target>Предыдущий месяц</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.progressbar.value" datatype="html">
+        <source><x id="INTERPOLATION"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.carousel.slide-number" datatype="html">
+        <source> Slide <x id="INTERPOLATION"/> of <x id="INTERPOLATION_1"/> </source>
+        <target> Слайд <x id="INTERPOLATION"/> из <x id="INTERPOLATION_1"/> </target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <note priority="1" from="description">Currently selected slide number read by screen reader</note>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.hours" datatype="html">
+        <source>Hours</source>
+        <target>Часы</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.previous" datatype="html">
+        <source>«</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.carousel.previous" datatype="html">
+        <source>Previous</source>
+        <target>Назад</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.MM" datatype="html">
+        <source>MM</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.next" datatype="html">
+        <source>»</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.select-year" datatype="html">
+        <source>Select year</source>
+        <target>Выбрать год</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.next-month" datatype="html">
+        <source>Next month</source>
+        <target>Следующий месяц</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.carousel.next" datatype="html">
+        <source>Next</source>
+        <target>Далее</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.minutes" datatype="html">
+        <source>Minutes</source>
+        <target>Минуты</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.last" datatype="html">
+        <source>»»</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.increment-hours" datatype="html">
+        <source>Increment hours</source>
+        <target>Увеличить часы</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.first-aria" datatype="html">
+        <source>First</source>
+        <target>Первый</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.previous-aria" datatype="html">
+        <source>Previous</source>
+        <target>Предыдущий</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.decrement-hours" datatype="html">
+        <source>Decrement hours</source>
+        <target>Уменьшить часы</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.next-aria" datatype="html">
+        <source>Next</source>
+        <target>Следующий</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.increment-minutes" datatype="html">
+        <source>Increment minutes</source>
+        <target>Увеличить минуты</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.last-aria" datatype="html">
+        <source>Last</source>
+        <target>Последний</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.decrement-minutes" datatype="html">
+        <source>Decrement minutes</source>
+        <target>Уменьшить минуты</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.SS" datatype="html">
+        <source>SS</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.seconds" datatype="html">
+        <source>Seconds</source>
+        <target>Секунды</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.increment-seconds" datatype="html">
+        <source>Increment seconds</source>
+        <target>Увеличить секунды</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.decrement-seconds" datatype="html">
+        <source>Decrement seconds</source>
+        <target>Уменьшить секунды</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.PM" datatype="html">
+        <source><x id="INTERPOLATION"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.AM" datatype="html">
+        <source><x id="INTERPOLATION"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="203827529942340818" datatype="html">
+        <source>Enter your email</source>
+        <target>Введите вашу почту</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/auth/auth.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2772023564304193657" datatype="html">
+        <source>Enter your password</source>
+        <target>Введите ваш пароль</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/auth/auth.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7708270344948043036" datatype="html">
+        <source> <x id="INTERPOLATION" equiv-text="{{ isLoginMode ? &quot;Login&quot; : &quot;Sign up&quot; }}"/> </source>
+        <target> <x id="INTERPOLATION" equiv-text="{{ isLoginMode ? &quot;Войти&quot; : &quot;Зарегистрироваться&quot; }}"/> </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/auth/auth.component.html</context>
+          <context context-type="linenumber">50,52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3436308936177909712" datatype="html">
+        <source> Switch to <x id="INTERPOLATION" equiv-text="{{ !isLoginMode ? &quot;Login&quot; : &quot;Sign up&quot; }}"/> </source>
+        <target> Переключиться на <x id="INTERPOLATION" equiv-text="{{ !isLoginMode ? &quot;Войти&quot; : &quot;Зарегистрироваться&quot; }}"/> </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/auth/auth.component.html</context>
+          <context context-type="linenumber">60,62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5531420519098960746" datatype="html">
+        <source>Achievements Sheet</source>
+        <target>Таблица достижений</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7188101214333901667" datatype="html">
+        <source>Winds of Wyrdness</source>
+        <target>Ветры Искажения</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1854433218702432766" datatype="html">
+        <source>Reclamation</source>
+        <target>Возвращение</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6486266840745337247" datatype="html">
+        <source>War for Avalon</source>
+        <target>Война за Авалон</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4991653678407763490" datatype="html">
+        <source>Restoring The Order</source>
+        <target>Восстановление ордена</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3488126279916990844" datatype="html">
+        <source>Enemies Of Avalon</source>
+        <target>Враги Авалона</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3998543069298955203" datatype="html">
+        <source>Remnants</source>
+        <target>Выжившие</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2341557592850110274" datatype="html">
+        <source>Deep Secret</source>
+        <target>Глубокая тайна</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8419648510254680181" datatype="html">
+        <source>Disturbing Information</source>
+        <target>Гнетущее открытие</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4515805808955448228" datatype="html">
+        <source>Dreams And Prophecies</source>
+        <target>Грезы и пророчества</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8566914693827007672" datatype="html">
+        <source>Diplomat</source>
+        <target>Дипломат</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6592185535410537316" datatype="html">
+        <source>Diplomatic Mission</source>
+        <target>Дипломатическая миссия</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6305987601288044844" datatype="html">
+        <source>Hunters Mark</source>
+        <target>Добыча охотника</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="612216186814994725" datatype="html">
+        <source>Charred Knowledge</source>
+        <target>Жгучее знание</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5155351625117653918" datatype="html">
+        <source>Farpoint Clues</source>
+        <target>Загадки на краю света</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2900455883681730395" datatype="html">
+        <source>Fall Of Chivalry</source>
+        <target>Закат рыцарства</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8455081636745893416" datatype="html">
+        <source>Shrine Secure</source>
+        <target>Защита святыни</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1973670593569437688" datatype="html">
+        <source>Peoples Champion</source>
+        <target>Защитник народа</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">107</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="918912777910651522" datatype="html">
+        <source>Scrounger</source>
+        <target>Иждивенец</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2717126209135122224" datatype="html">
+        <source>Halfway Intrigue</source>
+        <target>Интриги на Полпути</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1665816340875004345" datatype="html">
+        <source>Redemption</source>
+        <target>Искупление</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">118</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2787415153799935287" datatype="html">
+        <source>Maggots Redemption</source>
+        <target>Искупление Червяка</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7207932599409551275" datatype="html">
+        <source>Tuathan Exploration</source>
+        <target>Исследование Туатана</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">128</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6172499862491621554" datatype="html">
+        <source>Hidden Treasures</source>
+        <target>Клад</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">133</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3055562073629368587" datatype="html">
+        <source>End Of The Road</source>
+        <target>Конец Дороги</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">138</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1740750241939309535" datatype="html">
+        <source>Cosuil</source>
+        <target>Косуль</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">142</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6239824091709423322" datatype="html">
+        <source>Traveling Menhir</source>
+        <target>Кочующий менгир</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">144</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2718468525848334031" datatype="html">
+        <source>Matricide</source>
+        <target>Матереубийство</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">148</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="93112137266828585" datatype="html">
+        <source>Peace In Borough</source>
+        <target>Мир в боро</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">150</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="416138718593646356" datatype="html">
+        <source>Moonring Mission</source>
+        <target>Мунрингское дело</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">155</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7245991381778925348" datatype="html">
+        <source>Monastery Discovered</source>
+        <target>Найденный монастырь</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8784338749021255405" datatype="html">
+        <source>Deal Breaker</source>
+        <target>Нарушитель соглашений</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">165</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8933499743537012592" datatype="html">
+        <source>Faels Legacy</source>
+        <target>Наследие Фаэля</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">170</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8145624909660105998" datatype="html">
+        <source>Burning Mystery</source>
+        <target>Необъяснимая тайна</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">175</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9033873304851418221" datatype="html">
+        <source>General Directions</source>
+        <target>Общие указания</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">180</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1541296062169063931" datatype="html">
+        <source>Cold Pyre</source>
+        <target>Остывший костер</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">184</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7761113244242010570" datatype="html">
+        <source>Lost And Fallen</source>
+        <target>Павшие</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">186</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3614352798260517192" datatype="html">
+        <source>Mourning Song</source>
+        <target>Погребальная песнь</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">191</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="911575784117834423" datatype="html">
+        <source>Something Is Watching</source>
+        <target>Под наблюдением</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">196</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7480487722062286835" datatype="html">
+        <source>Supplying The Revolt</source>
+        <target>Поддержка мятежа</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">203</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7701752638635145880" datatype="html">
+        <source>Underfern</source>
+        <target>Подморье</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">207</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7224722019363844519" datatype="html">
+        <source>Pathfinder</source>
+        <target>Поиск пути</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">209</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4089216770198706708" datatype="html">
+        <source>LeftBehind</source>
+        <target>Покинутое место</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">214</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9101551363571087343" datatype="html">
+        <source>Helping The Knights</source>
+        <target>Помощь рыцарям</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">219</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1632594749325198879" datatype="html">
+        <source>Tangleroot Knowledge</source>
+        <target>Попавшие в переплет</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">224</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8378186681757994890" datatype="html">
+        <source>Ladys Task</source>
+        <target>ЗПоручение владычицы</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">229</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1350326817963570572" datatype="html">
+        <source>Morgaines Task</source>
+        <target>Поручение Морганы</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">234</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3382044948287083655" datatype="html">
+        <source>Final Confrontations</source>
+        <target>Последнее противостояние</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">239</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9044278888840354875" datatype="html">
+        <source>Final Lesson</source>
+        <target>Последний урок</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">244</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4652741533415906789" datatype="html">
+        <source>Last Haven</source>
+        <target>Последняя гавань</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">248</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3070198582392414025" datatype="html">
+        <source>Call From Beyond</source>
+        <target>Потусторонний зов</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">250</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8104666408841075702" datatype="html">
+        <source>Guest Of Honor</source>
+        <target>Почетный гость</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">255</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1237545095737888191" datatype="html">
+        <source>Gerraints Successor</source>
+        <target>Преемник Геррейнта</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">260</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2788884676075666254" datatype="html">
+        <source>Shelter In The Storm</source>
+        <target>Прибежище от бури</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">265</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7044830977534607851" datatype="html">
+        <source>Cherished Belongings</source>
+        <target>Пропавшие пожитки</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">270</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4005364679643022855" datatype="html">
+        <source>Mystery Solved</source>
+        <target>Раскрытая тайна</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">275</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="131039346576290975" datatype="html">
+        <source>Glen Ritual</source>
+        <target>Ритуал в долине</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">280</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3649504222868795067" datatype="html">
+        <source>Helping Hand</source>
+        <target>Рука помощи</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">285</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2103066001623060740" datatype="html">
+        <source>Stonemasons Secret</source>
+        <target>Секрет каменщика</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">290</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8529068819503536074" datatype="html">
+        <source>Riddle Of The Old Steel</source>
+        <target>Секрет старой стали</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">295</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2456511013791497391" datatype="html">
+        <source>Tracker</source>
+        <target>Следопыт</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">299</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7195036575693550147" datatype="html">
+        <source>Remedy</source>
+        <target>Снадобье</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">300</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5199359097419513167" datatype="html">
+        <source>Allies Of Avalon</source>
+        <target>Союзники Авалона</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">302</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5120195532330935553" datatype="html">
+        <source>Saved By The Goddess</source>
+        <target>Спасенные Богиней</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">307</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5013517885960417781" datatype="html">
+        <source>Pillager</source>
+        <target>Стервятник</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">311</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="276201960609791702" datatype="html">
+        <source>Strange Encounters</source>
+        <target>Странные встречи</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">313</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3572664732984931799" datatype="html">
+        <source>Fate Of The Expedition</source>
+        <target>Судьба экспедиции</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">318</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1042408741087077960" datatype="html">
+        <source>Secrets Of The Forest</source>
+        <target>Тайны леса</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">325</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2722404334958470829" datatype="html">
+        <source>Fortunate Meetings</source>
+        <target>Ценные встречи</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">330</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7788275754509382509" datatype="html">
+        <source>Black Cauldron</source>
+        <target>Черный котел</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">335</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5543766042298619709" datatype="html">
+        <source>Escalation</source>
+        <target>Эскалация</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">340</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2993214884777755957" datatype="html">
+        <source>Player <x id="INTERPOLATION" equiv-text="{{ player }}"/></source>
+        <target>Игрок <x id="INTERPOLATION" equiv-text="{{ player }}"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-players-sheet/game-players-sheet.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="187187500641108332" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{ playerData }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-players-sheet/game-players-sheet.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-players-sheet/game-players-sheet.component.html</context>
+          <context context-type="linenumber">106</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2539993457840800318" datatype="html">
+        <source>Save Sheet</source>
+        <target>Лист сохранения</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1500312177034314469" datatype="html">
+        <source>Input game name</source>
+        <target>Введите название игры</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1821935643871135431" datatype="html">
+        <source>Menhir #<x id="INTERPOLATION" equiv-text="{{ i + 1 }}"/></source>
+        <target>Менгир #<x id="INTERPOLATION" equiv-text="{{ i + 1 }}"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="471816275243265264" datatype="html">
+        <source>Location</source>
+        <target>Локация</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6907295626279756074" datatype="html">
+        <source>Dial Value</source>
+        <target>Значение счетчика</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3797570084942068182" datatype="html">
+        <source>Select</source>
+        <target>Значение</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="401445627850508939" datatype="html">
+        <source>Quest Dial #<x id="INTERPOLATION" equiv-text="{{ i + 1 }}"/></source>
+        <target>Счетчик миссии #<x id="INTERPOLATION" equiv-text="{{ i + 1 }}"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6467251902186696975" datatype="html">
+        <source>Guardians</source>
+        <target>Стражи</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4473047629482769037" datatype="html">
+        <source>Guardian #<x id="INTERPOLATION" equiv-text="{{ i + 1 }}"/> Location</source>
+        <target>Страж #<x id="INTERPOLATION" equiv-text="{{ i + 1 }}"/> Локация</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7200553628878377320" datatype="html">
+        <source>Player notes:</source>
+        <target>Игровые заметки:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7164363803618596522" datatype="html">
+        <source>Saved games</source>
+        <target>Сохраненные игры</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/games-list/games-list.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3100548502989637346" datatype="html">
+        <source> Fetch </source>
+        <target>Загрузить</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/games-list/games-list.component.html</context>
+          <context context-type="linenumber">17,19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6751912354209129732" datatype="html">
+        <source>Fetch list of games</source>
+        <target>Загрузить список сохраненных игр</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/games-list/games-list.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2048056686254793719" datatype="html">
+        <source>Last change of <x id="INTERPOLATION" equiv-text="{{ game.lastChange | date }}"/></source>
+        <target>Последнее изменение <x id="INTERPOLATION" equiv-text="{{ game.lastChange | date }}"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/games-list/games-list.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2661649989048134005" datatype="html">
+        <source>Removed Locations Sheet</source>
+        <target>Лист удаленных локаций</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/games-location-sheet/games-location-sheet.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2056803763524405632" datatype="html">
+        <source>Old</source>
+        <target>До</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/games-location-sheet/games-location-sheet.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5280218112746407598" datatype="html">
+        <source>New</source>
+        <target>После</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/games-location-sheet/games-location-sheet.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9172584042377049168" datatype="html">
+        <source> Add location </source>
+        <target>Добавить локацию</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/games-location-sheet/games-location-sheet.component.html</context>
+          <context context-type="linenumber">63,65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2102825898069375693" datatype="html">
+        <source>Menu</source>
+        <target>Меню</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2889260984084540414" datatype="html">
+        <source>You are logged in as:</source>
+        <target>Вы вошли как:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4314635307270261414" datatype="html">
+        <source>Main Menu</source>
+        <target>Главное меню</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1856334187928630821" datatype="html">
+        <source>Back to Main Menu</source>
+        <target>Вернуться в главное меню</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4676175344609233517" datatype="html">
+        <source>Save sheet</source>
+        <target>Лист сохранения</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="21719219393374352" datatype="html">
+        <source>To save sheet</source>
+        <target>Перейти к листу сохранения</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7373619377359302437" datatype="html">
+        <source>Players</source>
+        <target>Игроки</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7431268691506926326" datatype="html">
+        <source>To players sheet</source>
+        <target>Перейти к списку игроков</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1130914636248035703" datatype="html">
+        <source>Achievements</source>
+        <target>Достижения</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7161291374380988096" datatype="html">
+        <source>To achievements sheet</source>
+        <target>Перейти к списку достижений</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2738868810662350726" datatype="html">
+        <source>To removed locations sheet</source>
+        <target>Перейти к списку удаленных локаций</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3352016881447294486" datatype="html">
+        <source>Login / Sign Up</source>
+        <target>Войти / Зарегистрироваться</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3797778920049399855" datatype="html">
+        <source>Logout</source>
+        <target>Выйти</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7130182138525932037" datatype="html">
+        <source>New Game</source>
+        <target>Новая игра</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/menu/menu.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4468063774902287211" datatype="html">
+        <source>Start new game</source>
+        <target>Начать новую игру</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/menu/menu.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6962699013778688473" datatype="html">
+        <source>Continue</source>
+        <target>Продолжить</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/menu/menu.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8646250119973479268" datatype="html">
+        <source>Continue game</source>
+        <target>Продолжить игру</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/menu/menu.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7715385044007174516" datatype="html">
+        <source>Load Game</source>
+        <target>Загрузить игру</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/menu/menu.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6310075772138415390" datatype="html">
+        <source>Chose game from list</source>
+        <target>Загрузить ранее сохраненную игру</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/menu/menu.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2038472072675588943" datatype="html">
+        <source> Clear Data </source>
+        <target>Очистить</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/menu/menu.component.html</context>
+          <context context-type="linenumber">27,29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="171763479007857510" datatype="html">
+        <source>Clear all loaded data</source>
+        <target>Стереть загруженные данные</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/menu/menu.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3620188369327429839" datatype="html">
+        <source> Save </source>
+        <target>Сохранить</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/save-buttons/save-buttons.component.html</context>
+          <context context-type="linenumber">13,15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="139208709852154014" datatype="html">
+        <source>Save game as new</source>
+        <target>Сохранить как новую игру</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/save-buttons/save-buttons.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2592690450389009216" datatype="html">
+        <source> Update </source>
+        <target>Обновить</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/save-buttons/save-buttons.component.html</context>
+          <context context-type="linenumber">26,28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="958920554771300324" datatype="html">
+        <source>Update this game</source>
+        <target>Обновить текущую игру</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/save-buttons/save-buttons.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6347261937722853559" datatype="html">
+        <source>When you have any six parts of this status, go to BoS, Verse 525</source>
+        <target>Получив любые 6 частей, см. строфу 525 в книге секретов</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7354399938130699386" datatype="html">
+        <source>When you have any six parts of this status, go to BoS, Verse 512</source>
+        <target>Получив любые 6 частей, см. строфу 512 в книге секретов</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7698913273786882222" datatype="html">
+        <source>When you have parts 1-8 of this status, go to BoS, Verse 405</source>
+        <target>Получив части 1-8, см. строфу 405 в книге секретов</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">318</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8694625973505341048" datatype="html">
+        <source>When you have all 4 parts of this status, play special event V</source>
+        <target>Получив все 4 части, разыграйте особое событие В.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">197</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="620013521855260281" datatype="html">
+        <source>Gold</source>
+        <target>Золото</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-players-sheet/game-players-sheet.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3442817686340943129" datatype="html">
+        <source>Food</source>
+        <target>Еда</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-players-sheet/game-players-sheet.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6977587768354573246" datatype="html">
+        <source>Rep</source>
+        <target>Реп.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-players-sheet/game-players-sheet.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5690995252206024293" datatype="html">
+        <source>Exp</source>
+        <target>Опыт</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-players-sheet/game-players-sheet.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7838865295333189950" datatype="html">
+        <source>Magic</source>
+        <target>Магия</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-players-sheet/game-players-sheet.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8177873832400820695" datatype="html">
+        <source>Count</source>
+        <target>Счетчик</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-players-sheet/game-players-sheet.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8953033926734869941" datatype="html">
+        <source>Name</source>
+        <target>Имя</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-players-sheet/game-players-sheet.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

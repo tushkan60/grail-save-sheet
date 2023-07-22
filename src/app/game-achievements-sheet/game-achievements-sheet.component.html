@@ -1,0 +1,44 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-12">
+      <h2 i18n class="text-center">Achievements Sheet</h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <form [formGroup]="achievementsSheetForm">
+        <ng-container *ngFor="let section of formSections">
+          <div class="">
+            <ng-container *ngIf="!section.formArray">
+              <mat-checkbox formControlName="{{ section.controlName }}"
+                >{{ section.label }}
+              </mat-checkbox>
+            </ng-container>
+
+            <ng-container *ngIf="section.formArray">
+              <p *ngIf="section.formArray">{{ section.label }}</p>
+              <mat-checkbox
+                *ngFor="
+                  let control of getControls(section.controlName);
+                  let i = index
+                "
+                [formControl]="control"
+              >
+                {{ i + 1 }}
+              </mat-checkbox>
+              <p *ngIf="section.description">{{ section.description }}</p>
+            </ng-container>
+          </div>
+          <hr />
+        </ng-container>
+
+        <hr />
+        <app-save-buttons
+          [gameId]="gameId"
+          (saveClicked)="onSave()"
+          (updateClicked)="onUpdate()"
+        ></app-save-buttons>
+      </form>
+    </div>
+  </div>
+</div>

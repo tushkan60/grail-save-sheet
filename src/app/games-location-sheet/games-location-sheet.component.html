@@ -1,0 +1,78 @@
+<div class="container-fluid">
+  <h2 class="text-center" i18n>Removed Locations Sheet</h2>
+  <div class="row">
+    <div class="col-sm-12">
+      <div class="row align-items-center">
+        <form [formGroup]="locationSheetForm">
+          <ng-container formGroupName="locationsSheet">
+            <div
+              class="row"
+              *ngFor="let Ctrl of controls; let i = index"
+              formArrayName="{{ i }}"
+            >
+              <hr />
+              <div class="col-3 col-md-2">
+                <mat-form-field class="w-100">
+                  <mat-label i18n>Old</mat-label>
+                  <input matInput formControlName="oldLocation" />
+                </mat-form-field>
+              </div>
+              <div class="col-3 col-md-2 text-center">
+                <mat-icon
+                  aria-hidden="false"
+                  fontIcon="send"
+                  class="w-100 h-100"
+                  style="font-size: 55px"
+                ></mat-icon>
+              </div>
+
+              <div class="col-3 col-md-2">
+                <mat-form-field class="w-100">
+                  <mat-label i18n>New</mat-label>
+                  <input matInput formControlName="newLocation" />
+                </mat-form-field>
+              </div>
+
+              <div class="col-3 col-md-2">
+                <button
+                  type="button"
+                  mat-stroked-button
+                  color="warn"
+                  class="w-75 h-75 px-2"
+                  (click)="onDeleteLocation(i)"
+                >
+                  <mat-icon
+                    aria-hidden="false"
+                    fontIcon="close"
+                    class="w-100 h-100"
+                    style="font-size: 55px"
+                  ></mat-icon>
+                </button>
+              </div>
+              <hr />
+            </div>
+          </ng-container>
+          <div class="row">
+            <div class="col-xs-12 text-center">
+              <button
+                i18n
+                type="button"
+                mat-stroked-button
+                color="accent"
+                (click)="onAddLocation()"
+              >
+                Add location
+              </button>
+            </div>
+          </div>
+          <hr />
+          <app-save-buttons
+            [gameId]="gameId"
+            (saveClicked)="onSave()"
+            (updateClicked)="onUpdate()"
+          ></app-save-buttons>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

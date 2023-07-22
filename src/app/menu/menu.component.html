@@ -1,0 +1,36 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-12">
+      <mat-list>
+        <mat-list-item>
+          <span matListItemTitle
+            ><a i18n mat-button routerLink="/save" (click)="onClear()"
+              >New Game</a
+            ></span
+          >
+          <span i18n matListItemLine>Start new game</span>
+        </mat-list-item>
+        <mat-list-item>
+          <span matListItemTitle
+            ><a i18n mat-button routerLink="/save">Continue</a></span
+          >
+          <span i18n matListItemLine>Continue game</span>
+        </mat-list-item>
+        <mat-list-item>
+          <span matListItemTitle
+            ><a i18n routerLink="/list" mat-button>Load Game</a></span
+          >
+          <span i18n matListItemLine>Chose game from list</span>
+        </mat-list-item>
+        <mat-list-item>
+          <span matListItemTitle
+            ><button i18n mat-button (click)="onClear()">
+              Clear Data
+            </button></span
+          >
+          <span i18n matListItemLine>Clear all loaded data</span>
+        </mat-list-item>
+      </mat-list>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,67 @@
+<div class="row">
+  <div class="col-xs-12">
+    <div class="form-group" *ngIf="isLoading"><mat-spinner></mat-spinner></div>
+    <div class="form-group alert alert-danger" *ngIf="error">
+      <h2>{{ error }}</h2>
+    </div>
+    <form [formGroup]="authForm" (ngSubmit)="onSubmit()">
+      <div class="form-group form" *ngIf="!isLoading">
+        <mat-form-field class="w-75">
+          <mat-label i18n>Enter your email</mat-label>
+          <input
+            matInput
+            type="email"
+            placeholder="pat@example.com"
+            formControlName="email"
+            required
+          />
+          <mat-error *ngIf="authForm.controls.email.invalid">{{
+            getEmailErrorMessage()
+          }}</mat-error>
+        </mat-form-field>
+        <mat-form-field class="w-75">
+          <mat-label i18n>Enter your password</mat-label>
+          <input
+            id="password"
+            matInput
+            [type]="hide ? 'password' : 'text'"
+            formControlName="password"
+          />
+          <mat-error *ngIf="authForm.controls.password.invalid">{{
+            getPasswordErrorMessage()
+          }}</mat-error>
+          <button
+            mat-icon-button
+            matSuffix
+            (click)="hide = !hide"
+            [attr.aria-label]="'Hide password'"
+            [attr.aria-pressed]="hide"
+          >
+            <mat-icon>{{ hide ? "visibility_off" : "visibility" }}</mat-icon>
+          </button>
+        </mat-form-field>
+        <div>
+          <button
+            i18n
+            mat-raised-button
+            color="primary"
+            type="submit"
+            [disabled]="!authForm.valid"
+          >
+            {{ isLoginMode ? "Login" : "Sign up" }}
+          </button>
+          |
+          <button
+            i18n
+            mat-raised-button
+            color="primary"
+            type="button"
+            (click)="onSwitchMode()"
+          >
+            Switch to {{ !isLoginMode ? "Login" : "Sign up" }}
+          </button>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>

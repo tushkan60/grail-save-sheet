@@ -1,0 +1,24 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.card{
+  padding: 5px;
+}
+
+.skills{
+  width: 100%;
+  padding: 5px 0;
+  margin: 5px 0;
+
+  background-color: #424242;
+  opacity: 1;
+  border-radius: var(--bs-border-radius);
+}
+

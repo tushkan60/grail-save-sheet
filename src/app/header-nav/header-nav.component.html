@@ -1,0 +1,69 @@
+<mat-sidenav-container class="sidenav-container">
+  <mat-sidenav
+    #drawer
+    class="sidenav"
+    fixedInViewport
+    [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
+    [mode]="(isHandset$ | async) ? 'over' : 'side'"
+    [opened]="(isHandset$ | async) === false"
+  >
+    <mat-toolbar i18n>Menu</mat-toolbar>
+    <mat-nav-list
+      class="d-flex align-items-center flex-column"
+      *ngIf="isAuthenticated"
+    >
+      <p i18n>You are logged in as:</p>
+      <p>{{ userName }}</p>
+    </mat-nav-list>
+
+    <mat-nav-list *ngIf="isAuthenticated">
+      <a i18n mat-list-item routerLink="/">Main Menu</a>
+      <p i18n matListItemLine>Back to Main Menu</p>
+      <hr />
+      <a i18n mat-list-item routerLink="/save">Save sheet</a>
+      <p i18n matListItemLine>To save sheet</p>
+      <hr />
+      <a i18n mat-list-item routerLink="/players">Players</a>
+      <span i18n matListItemLine>To players sheet</span>
+      <hr />
+      <a i18n mat-list-item routerLink="/achievements">Achievements</a>
+      <span i18n matListItemLine>To achievements sheet</span>
+      <hr />
+      <a i18n mat-list-item routerLink="/location">Location</a>
+      <span i18n matListItemLine>To removed locations sheet</span>
+      <hr />
+    </mat-nav-list>
+
+    <mat-nav-list>
+      <a i18n mat-list-item routerLink="/auth" *ngIf="!isAuthenticated"
+        >Login / Sign Up</a
+      >
+      <a i18n mat-list-item *ngIf="isAuthenticated" (click)="onLogout()"
+        >Logout</a
+      >
+    </mat-nav-list>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <mat-toolbar color="primary">
+      <button
+        type="button"
+        aria-label="Toggle sidenav"
+        mat-icon-button
+        (click)="drawer.toggle()"
+        *ngIf="isHandset$ | async"
+      >
+        <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
+      </button>
+      <a>
+        <img
+          class="navbar-brand img-responsive"
+          ngSrc="assets/logo-eng.png"
+          alt="tainted grail logo"
+          width="150"
+          height="49"
+        />
+      </a>
+    </mat-toolbar>
+    <router-outlet></router-outlet>
+  </mat-sidenav-content>
+</mat-sidenav-container>

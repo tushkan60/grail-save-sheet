@@ -1,0 +1,31 @@
+<div
+  class="row text-center position-sticky bottom-0"
+  style="background-color: var(--mat-select-panel-background-color)"
+>
+  <hr />
+  <div class="col z-0">
+    <button
+      i18n
+      mat-stroked-button
+      color="accent"
+      type="submit"
+      (click)="onSave()"
+    >
+      Save
+    </button>
+
+    <span i18n matListItemLine>Save game as new</span>
+  </div>
+  <div class="col z-0" *ngIf="gameId !== ''">
+    <button
+      i18n
+      mat-stroked-button
+      color="accent"
+      type="submit"
+      (click)="onUpdate()"
+    >
+      Update
+    </button>
+    <span i18n matListItemLine>Update this game</span>
+  </div>
+</div>

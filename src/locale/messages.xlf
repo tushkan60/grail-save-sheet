@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="ngb.alert.close" datatype="html">
+        <source>Close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.HH" datatype="html">
+        <source>HH</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.toast.close-aria" datatype="html">
+        <source>Close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.first" datatype="html">
+        <source>««</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.select-month" datatype="html">
+        <source>Select month</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.previous-month" datatype="html">
+        <source>Previous month</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.progressbar.value" datatype="html">
+        <source><x id="INTERPOLATION"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.carousel.slide-number" datatype="html">
+        <source> Slide <x id="INTERPOLATION"/> of <x id="INTERPOLATION_1"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <note priority="1" from="description">Currently selected slide number read by screen reader</note>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.hours" datatype="html">
+        <source>Hours</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.previous" datatype="html">
+        <source>«</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.carousel.previous" datatype="html">
+        <source>Previous</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.MM" datatype="html">
+        <source>MM</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.next" datatype="html">
+        <source>»</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.select-year" datatype="html">
+        <source>Select year</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.next-month" datatype="html">
+        <source>Next month</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.carousel.next" datatype="html">
+        <source>Next</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.minutes" datatype="html">
+        <source>Minutes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.last" datatype="html">
+        <source>»»</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.increment-hours" datatype="html">
+        <source>Increment hours</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.first-aria" datatype="html">
+        <source>First</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.previous-aria" datatype="html">
+        <source>Previous</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.decrement-hours" datatype="html">
+        <source>Decrement hours</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.next-aria" datatype="html">
+        <source>Next</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.increment-minutes" datatype="html">
+        <source>Increment minutes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.last-aria" datatype="html">
+        <source>Last</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.decrement-minutes" datatype="html">
+        <source>Decrement minutes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.SS" datatype="html">
+        <source>SS</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.seconds" datatype="html">
+        <source>Seconds</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.increment-seconds" datatype="html">
+        <source>Increment seconds</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.decrement-seconds" datatype="html">
+        <source>Decrement seconds</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.PM" datatype="html">
+        <source><x id="INTERPOLATION"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.AM" datatype="html">
+        <source><x id="INTERPOLATION"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="203827529942340818" datatype="html">
+        <source>Enter your email</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/auth/auth.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2772023564304193657" datatype="html">
+        <source>Enter your password</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/auth/auth.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7708270344948043036" datatype="html">
+        <source> <x id="INTERPOLATION" equiv-text="{{ isLoginMode ? &quot;Login&quot; : &quot;Sign up&quot; }}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/auth/auth.component.html</context>
+          <context context-type="linenumber">50,52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3436308936177909712" datatype="html">
+        <source> Switch to <x id="INTERPOLATION" equiv-text="{{ !isLoginMode ? &quot;Login&quot; : &quot;Sign up&quot; }}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/auth/auth.component.html</context>
+          <context context-type="linenumber">60,62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5531420519098960746" datatype="html">
+        <source>Achievements Sheet</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7188101214333901667" datatype="html">
+        <source>Winds of Wyrdness</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1854433218702432766" datatype="html">
+        <source>Reclamation</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6486266840745337247" datatype="html">
+        <source>War for Avalon</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4991653678407763490" datatype="html">
+        <source>Restoring The Order</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7354399938130699386" datatype="html">
+        <source>When you have any six parts of this status, go to BoS, Verse 512</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3488126279916990844" datatype="html">
+        <source>Enemies Of Avalon</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3998543069298955203" datatype="html">
+        <source>Remnants</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2341557592850110274" datatype="html">
+        <source>Deep Secret</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8419648510254680181" datatype="html">
+        <source>Disturbing Information</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4515805808955448228" datatype="html">
+        <source>Dreams And Prophecies</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8566914693827007672" datatype="html">
+        <source>Diplomat</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6592185535410537316" datatype="html">
+        <source>Diplomatic Mission</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6305987601288044844" datatype="html">
+        <source>Hunters Mark</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="612216186814994725" datatype="html">
+        <source>Charred Knowledge</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5155351625117653918" datatype="html">
+        <source>Farpoint Clues</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">89</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2900455883681730395" datatype="html">
+        <source>Fall Of Chivalry</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6347261937722853559" datatype="html">
+        <source>When you have any six parts of this status, go to BoS, Verse 525</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8455081636745893416" datatype="html">
+        <source>Shrine Secure</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1973670593569437688" datatype="html">
+        <source>Peoples Champion</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="918912777910651522" datatype="html">
+        <source>Scrounger</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">109</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2717126209135122224" datatype="html">
+        <source>Halfway Intrigue</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1665816340875004345" datatype="html">
+        <source>Redemption</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">116</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2787415153799935287" datatype="html">
+        <source>Maggots Redemption</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">121</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7207932599409551275" datatype="html">
+        <source>Tuathan Exploration</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">126</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6172499862491621554" datatype="html">
+        <source>Hidden Treasures</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3055562073629368587" datatype="html">
+        <source>End Of The Road</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">136</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1740750241939309535" datatype="html">
+        <source>Cosuil</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">140</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6239824091709423322" datatype="html">
+        <source>Traveling Menhir</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">142</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2718468525848334031" datatype="html">
+        <source>Matricide</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">146</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="93112137266828585" datatype="html">
+        <source>Peace In Borough</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">148</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="416138718593646356" datatype="html">
+        <source>Moonring Mission</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">153</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7245991381778925348" datatype="html">
+        <source>Monastery Discovered</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">158</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8784338749021255405" datatype="html">
+        <source>Deal Breaker</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">163</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8933499743537012592" datatype="html">
+        <source>Faels Legacy</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">168</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8145624909660105998" datatype="html">
+        <source>Burning Mystery</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">173</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9033873304851418221" datatype="html">
+        <source>General Directions</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">178</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1541296062169063931" datatype="html">
+        <source>Cold Pyre</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">182</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7761113244242010570" datatype="html">
+        <source>Lost And Fallen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">184</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3614352798260517192" datatype="html">
+        <source>Mourning Song</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">189</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="911575784117834423" datatype="html">
+        <source>Something Is Watching</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">194</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8694625973505341048" datatype="html">
+        <source>When you have all 4 parts of this status, play special event V</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">197</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7480487722062286835" datatype="html">
+        <source>Supplying The Revolt</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">200</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7701752638635145880" datatype="html">
+        <source>Underfern</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7224722019363844519" datatype="html">
+        <source>Pathfinder</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">206</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4089216770198706708" datatype="html">
+        <source>LeftBehind</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">211</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9101551363571087343" datatype="html">
+        <source>Helping The Knights</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">216</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1632594749325198879" datatype="html">
+        <source>Tangleroot Knowledge</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">221</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8378186681757994890" datatype="html">
+        <source>Ladys Task</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">226</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1350326817963570572" datatype="html">
+        <source>Morgaines Task</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">231</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3382044948287083655" datatype="html">
+        <source>Final Confrontations</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">236</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9044278888840354875" datatype="html">
+        <source>Final Lesson</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">241</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4652741533415906789" datatype="html">
+        <source>Last Haven</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">245</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3070198582392414025" datatype="html">
+        <source>Call From Beyond</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">247</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8104666408841075702" datatype="html">
+        <source>Guest Of Honor</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">252</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1237545095737888191" datatype="html">
+        <source>Gerraints Successor</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">257</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2788884676075666254" datatype="html">
+        <source>Shelter In The Storm</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">262</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7044830977534607851" datatype="html">
+        <source>Cherished Belongings</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">267</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4005364679643022855" datatype="html">
+        <source>Mystery Solved</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">272</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="131039346576290975" datatype="html">
+        <source>Glen Ritual</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">277</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3649504222868795067" datatype="html">
+        <source>Helping Hand</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">282</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2103066001623060740" datatype="html">
+        <source>Stonemasons Secret</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">287</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8529068819503536074" datatype="html">
+        <source>Riddle Of The Old Steel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">292</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2456511013791497391" datatype="html">
+        <source>Tracker</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">296</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7195036575693550147" datatype="html">
+        <source>Remedy</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">297</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5199359097419513167" datatype="html">
+        <source>Allies Of Avalon</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">299</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5120195532330935553" datatype="html">
+        <source>Saved By The Goddess</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">304</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5013517885960417781" datatype="html">
+        <source>Pillager</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">308</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="276201960609791702" datatype="html">
+        <source>Strange Encounters</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">310</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3572664732984931799" datatype="html">
+        <source>Fate Of The Expedition</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">315</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7698913273786882222" datatype="html">
+        <source>When you have parts 1-8 of this status, go to BoS, Verse 405</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">318</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1042408741087077960" datatype="html">
+        <source>Secrets Of The Forest</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">321</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2722404334958470829" datatype="html">
+        <source>Fortunate Meetings</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">326</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7788275754509382509" datatype="html">
+        <source>Black Cauldron</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">331</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5543766042298619709" datatype="html">
+        <source>Escalation</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-achievements-sheet/game-achievements-sheet.component.ts</context>
+          <context context-type="linenumber">336</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7373619377359302437" datatype="html">
+        <source>Players</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-players-sheet/game-players-sheet.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2993214884777755957" datatype="html">
+        <source>Player <x id="INTERPOLATION" equiv-text="{{ i + 1 }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-players-sheet/game-players-sheet.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8953033926734869941" datatype="html">
+        <source>Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-players-sheet/game-players-sheet.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="471816275243265264" datatype="html">
+        <source>Location</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-players-sheet/game-players-sheet.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8177873832400820695" datatype="html">
+        <source>Count</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-players-sheet/game-players-sheet.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3442817686340943129" datatype="html">
+        <source>Food</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-players-sheet/game-players-sheet.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="620013521855260281" datatype="html">
+        <source>Gold</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-players-sheet/game-players-sheet.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6977587768354573246" datatype="html">
+        <source>Rep</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-players-sheet/game-players-sheet.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5690995252206024293" datatype="html">
+        <source>Exp</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-players-sheet/game-players-sheet.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7838865295333189950" datatype="html">
+        <source>Magic</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-players-sheet/game-players-sheet.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2539993457840800318" datatype="html">
+        <source>Save Sheet</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1500312177034314469" datatype="html">
+        <source>Input game name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1821935643871135431" datatype="html">
+        <source>Menhir #<x id="INTERPOLATION" equiv-text="{{ i + 1 }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6907295626279756074" datatype="html">
+        <source>Dial Value</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3797570084942068182" datatype="html">
+        <source>Select</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="401445627850508939" datatype="html">
+        <source>Quest Dial #<x id="INTERPOLATION" equiv-text="{{ i + 1 }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6467251902186696975" datatype="html">
+        <source>Guardians</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4473047629482769037" datatype="html">
+        <source>Guardian #<x id="INTERPOLATION" equiv-text="{{ i + 1 }}"/> Location</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7200553628878377320" datatype="html">
+        <source>Player notes:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/game-save-sheet/game-save-sheet.component.html</context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7164363803618596522" datatype="html">
+        <source>Saved games</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/games-list/games-list.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3100548502989637346" datatype="html">
+        <source> Fetch </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/games-list/games-list.component.html</context>
+          <context context-type="linenumber">17,19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6751912354209129732" datatype="html">
+        <source>Fetch list of games</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/games-list/games-list.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2048056686254793719" datatype="html">
+        <source>Last change of <x id="INTERPOLATION" equiv-text="{{ game.lastChange | date }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/games-list/games-list.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2661649989048134005" datatype="html">
+        <source>Removed Locations Sheet</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/games-location-sheet/games-location-sheet.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2056803763524405632" datatype="html">
+        <source>Old</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/games-location-sheet/games-location-sheet.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5280218112746407598" datatype="html">
+        <source>New</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/games-location-sheet/games-location-sheet.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9172584042377049168" datatype="html">
+        <source> Add location </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/games-location-sheet/games-location-sheet.component.html</context>
+          <context context-type="linenumber">63,65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2102825898069375693" datatype="html">
+        <source>Menu</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2889260984084540414" datatype="html">
+        <source>You are logged in as:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4314635307270261414" datatype="html">
+        <source>Main Menu</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1856334187928630821" datatype="html">
+        <source>Back to Main Menu</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4676175344609233517" datatype="html">
+        <source>Save sheet</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="21719219393374352" datatype="html">
+        <source>To save sheet</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7431268691506926326" datatype="html">
+        <source>To players sheet</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1130914636248035703" datatype="html">
+        <source>Achievements</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7161291374380988096" datatype="html">
+        <source>To achievements sheet</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2738868810662350726" datatype="html">
+        <source>To removed locations sheet</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3352016881447294486" datatype="html">
+        <source>Login / Sign Up</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3797778920049399855" datatype="html">
+        <source>Logout</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header-nav/header-nav.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7130182138525932037" datatype="html">
+        <source>New Game</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/menu/menu.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4468063774902287211" datatype="html">
+        <source>Start new game</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/menu/menu.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6962699013778688473" datatype="html">
+        <source>Continue</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/menu/menu.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8646250119973479268" datatype="html">
+        <source>Continue game</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/menu/menu.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7715385044007174516" datatype="html">
+        <source>Load Game</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/menu/menu.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6310075772138415390" datatype="html">
+        <source>Chose game from list</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/menu/menu.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2038472072675588943" datatype="html">
+        <source> Clear Data </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/menu/menu.component.html</context>
+          <context context-type="linenumber">27,29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="171763479007857510" datatype="html">
+        <source>Clear all loaded data</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/menu/menu.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3620188369327429839" datatype="html">
+        <source> Save </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/save-buttons/save-buttons.component.html</context>
+          <context context-type="linenumber">13,15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="139208709852154014" datatype="html">
+        <source>Save game as new</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/save-buttons/save-buttons.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2592690450389009216" datatype="html">
+        <source> Update </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/save-buttons/save-buttons.component.html</context>
+          <context context-type="linenumber">26,28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="958920554771300324" datatype="html">
+        <source>Update this game</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/save-buttons/save-buttons.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

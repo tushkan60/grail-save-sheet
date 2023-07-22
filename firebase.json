@@ -1,0 +1,42 @@
+{
+  "hosting": [
+    {
+      "target": "grail-save-sheet",
+      "source": ".",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "frameworksBackend": {
+        "region": "europe-west1"
+      },
+      "headers": [{
+        "source": "/**/!(*.*)",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "no-cache"
+          }
+        ]
+      }],
+      "rewrites": [
+        {
+          "source": "/en/**",
+          "destination": "/en/index.html"
+        },
+        {
+          "source": "/ru/**",
+          "destination": "/ru/index.html"
+        }
+      ],
+      "redirects": [
+        {
+          "source": "/",
+          "destination": "/ru",
+          "type": 301
+        }
+      ]
+    }
+  ]
+}
